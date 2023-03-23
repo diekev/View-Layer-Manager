@@ -2,7 +2,7 @@ bl_info = {
     "name": "View Layer Manager",
     "author": "Kévin Dietrich",
     "version": (0, 0, 1),
-    "blender": (3, 4, 0),
+    "blender": (3, 5, 0),
     "location": "Editors > View Layer Manager",
     "description": "Editor to manage all view layers of the current scene",
     "warning": "Beta",
